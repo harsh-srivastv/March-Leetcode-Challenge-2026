@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/harsh-srivastv/March-Leetcode-Challenge-2026/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/harsh-srivastv/March-Leetcode-Challenge-2026/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/harsh-srivastv/March-Leetcode-Challenge-2026/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harsh-srivastv/March-Leetcode-Challenge-2026/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/harsh-srivastv/March-Leetcode-Challenge-2026/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Array
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/harsh-srivastv/March-Leetcode-Challenge-2026/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/harsh-srivastv/March-Leetcode-Challenge-2026/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/harsh-srivastv/March-Leetcode-Challenge-2026/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harsh-srivastv/March-Leetcode-Challenge-2026/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1980-find-unique-binary-string](https://github.com/harsh-srivastv/March-Leetcode-Challenge-2026/tree/master/1980-find-unique-binary-string) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/harsh-srivastv/March-Leetcode-Challenge-2026/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/harsh-srivastv/March-Leetcode-Challenge-2026/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/harsh-srivastv/March-Leetcode-Challenge-2026/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/harsh-srivastv/March-Leetcode-Challenge-2026/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harsh-srivastv/March-Leetcode-Challenge-2026/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Recursion
 |  |
@@ -108,5 +111,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/harsh-srivastv/March-Leetcode-Challenge-2026/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harsh-srivastv/March-Leetcode-Challenge-2026/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 <!---LeetCode Topics End-->
